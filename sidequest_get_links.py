@@ -86,7 +86,7 @@ for url in links:
     print(url)
 print (links)
 
-file_path = r"C:\Tian-Starter-Task\sidequest_links.csv"  
+file_path = r"C:\YOUR PATH\sidequest_links.csv"  
 
 
 with open(file_path, mode='w', newline='') as file:

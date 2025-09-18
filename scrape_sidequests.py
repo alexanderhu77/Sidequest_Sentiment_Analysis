@@ -7,8 +7,8 @@ from webdriver_manager.chrome import ChromeDriverManager
 import time
 
 
-input_path = r'C:\Tian-Starter-Task\sidequest_links.csv'  
-output_path= r'C:\Tian-Starter-Task\sidequest_review_scrape.csv' 
+input_path = r'YOUR PATH\sidequest_links.csv'  
+output_path= r'YOUR PATH\sidequest_review_scrape.csv' 
 
 
 def extract_reviews_from_url(url, driver):
